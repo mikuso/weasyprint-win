@@ -1,0 +1,19 @@
+{
+  "name": "@flamescape/weasyprint-win",
+  "version": "0.0.0",
+  "description": "A pre-built, dependency-bundled version of WeasyPrint for 64-bit Windows OS.",
+  "main": "index.js",
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "execa": "^3.2.0",
+    "fs-extra": "^8.1.0",
+    "tmp-promise": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "private": false,
+  "author": "Gareth Hughes <g_github@flamescape.com>",
+  "homepage": "https://github.com/mikuso/simplemq",
+  "keywords": [],
+  "license": "ISC"
+}
