@@ -1,6 +1,6 @@
 {
   "name": "@flamescape/weasyprint-win",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A pre-built, dependency-bundled version of WeasyPrint for 64-bit Windows OS.",
   "main": "index.js",
   "dependencies": {
